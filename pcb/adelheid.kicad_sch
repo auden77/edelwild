@@ -4279,7 +4279,7 @@
       (reference "MX4_1") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1.75U-FLIPPED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ec53306"
-      (reference "MX5") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-2.25U")
+      (reference "MX5") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1.25U")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee9e08d"
       (reference "MX6") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1.5U")
@@ -4481,9 +4481,6 @@
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ec48a48"
       (reference "MX72") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42b2d"
-      (reference "MX73") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee6248a"
       (reference "MX74") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-ISO")

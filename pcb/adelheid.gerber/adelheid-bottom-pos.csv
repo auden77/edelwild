@@ -13,7 +13,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "D2","D","D_SOD-123",-54.749700,-63.246000,90.000000,bottom
 "D3","D","D_SOD-123",-55.270400,-82.080100,90.000000,bottom
 "D4","D","D_SOD-123",-53.594000,-101.346000,90.000000,bottom
-"D5","D","D_SOD-123",-54.381400,-120.218200,90.000000,bottom
+"D5","D","D_SOD-123",-44.532550,-120.218200,90.000000,bottom
 "D6","D","D_SOD-123",-47.117000,-139.344400,90.000000,bottom
 "D7","D","D_SOD-123",-68.745100,-37.566600,90.000000,bottom
 "D8","D","D_SOD-123",-73.723500,-63.068200,90.000000,bottom
@@ -86,7 +86,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "D75","D","D_SOD-123",-343.293700,-124.942600,90.000000,bottom
 "D76","D","D_SOD-123",-343.217500,-143.878300,90.000000,bottom
 "D77","D","D_SOD-123",-349.631000,-39.243000,90.000000,bottom
-"D78","D","D_SOD-123",-330.098400,-63.068200,90.000000,bottom
+"D78","D","D_SOD-123",-56.438800,-113.099850,0.000000,bottom
 "D79","D","D_SOD-123",-353.936300,-58.343800,90.000000,bottom
 "D80","D","D_SOD-123",-358.089200,-77.533500,90.000000,bottom
 "D81","D","D_SOD-123",-360.045000,-92.711000,90.000000,bottom
@@ -131,7 +131,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "RL2","R","R_0805_2012Metric_Pad1.15x1.40mm_HandSolder",-54.711600,-68.580000,90.000000,bottom
 "RL3","R","R_0805_2012Metric_Pad1.15x1.40mm_HandSolder",-55.118000,-87.621000,90.000000,bottom
 "RL4","R","R_0805_2012Metric_Pad1.15x1.40mm_HandSolder",-53.594000,-106.680000,90.000000,bottom
-"RL5","R","R_0805_2012Metric_Pad1.15x1.40mm_HandSolder",-54.356000,-125.721000,90.000000,bottom
+"RL5","R","R_0805_2012Metric_Pad1.15x1.40mm_HandSolder",-44.507150,-125.721000,90.000000,bottom
 "RL6","R","R_0805_2012Metric_Pad1.15x1.40mm_HandSolder",-46.990000,-144.771000,90.000000,bottom
 "RL7","R","R_0805_2012Metric_Pad1.15x1.40mm_HandSolder",-68.580000,-43.171000,90.000000,bottom
 "RL8","R","R_0805_2012Metric_Pad1.15x1.40mm_HandSolder",-73.660000,-68.580000,90.000000,bottom
@@ -204,7 +204,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "RL75","R","R_0805_2012Metric_Pad1.15x1.40mm_HandSolder",-343.281000,-130.420000,90.000000,bottom
 "RL76","R","R_0805_2012Metric_Pad1.15x1.40mm_HandSolder",-343.154000,-149.470000,90.000000,bottom
 "RL77","R","R_0805_2012Metric_Pad1.15x1.40mm_HandSolder",-349.631000,-44.713000,90.000000,bottom
-"RL78","R","R_0805_2012Metric_Pad1.15x1.40mm_HandSolder",-329.946000,-68.571000,90.000000,bottom
+"RL78","R","R_0805_2012Metric_Pad1.15x1.40mm_HandSolder",-50.936000,-112.947450,0.000000,bottom
 "RL79","R","R_0805_2012Metric_Pad1.15x1.40mm_HandSolder",-353.822000,-63.745000,90.000000,bottom
 "RL80","R","R_0805_2012Metric_Pad1.15x1.40mm_HandSolder",-358.013000,-82.795000,90.000000,bottom
 "RL81","R","R_0805_2012Metric_Pad1.15x1.40mm_HandSolder",-359.918000,-100.466000,90.000000,bottom
