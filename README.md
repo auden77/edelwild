@@ -33,6 +33,7 @@ And the online configurator: https://config.qmk.fm/#/adelheid/LAYOUT
 * modify PCB to include:
   * trackpoint
   * two rotary encoders
+  * right b
 * modify acrylic case to include:
   * raspberry pi 4B
   * battery for raspberry pi
