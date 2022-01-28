@@ -37,4 +37,4 @@ And the online configurator: https://config.qmk.fm/#/adelheid/LAYOUT
 * modify acrylic case to include:
   * raspberry pi 4B
   * battery for raspberry pi
-* add 1.5mm acrylic keyboard plate
+* add 1.5mm acrylic switch plate
